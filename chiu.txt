@@ -1,0 +1,23 @@
+Nguyên âm đơn
+/ɪ/	giống ê tiếng việt, thả lỏng, lấy hơi thật sâu
+/i:/	giống i tiếng việt, hơi nhoẻn miệng ra tạo độ căng miệng, lấy hơi thật sâu
+/e/	giống e tiếng việt, thả lỏng, lấy hơi thật sâu
+/æ/	giống e tiếng việt, nhưng miệng phải căng, đọc hơi ngân nga kéo âm 1 tý, lấy hơi thật sâu
+/ɜ:/
+/ʊ/	giống ư + ơ tiếng việt, nhưng miệng phải căng, đọc hơi ngân nga kéo âm 1 tý, lấy hơi thật sâu
+/u:/	giống u tiếng việt, nhưng miệng phải căng, đọc hơi ngân nga kéo âm 1 tý, lấy hơi thật sâu
+/ɒ/
+/ʌ/	giống ấ tiếng việt, nhưng miệng phải căng, đọc hơi ngân nga kéo âm 1 tý, lấy hơi thật sâu
+/ə/	giống ơ tiếng việt, nhưng miệng phải căng, đọc hơi ngân nga kéo âm 1 tý, lấy hơi thật sâu
+/ɑ:/	giống a tiếng việt, vòm miệng thả lỏng và mở rộng, đọc hơi ngân nga kéo âm 1 tý, lấy hơi thật sâu
+/ɔ:/	giống o tiếng việt, lấy hơi thật sâu
+
+/ɪər/	mở đầu bằng ia ơ, kết thúc là r, kéo dãn 2 âm ra
+/eə/
+/eɪ/	mở đầu bằng ê, kết thúc là ây, kéo dãn 2 âm ra
+/ɔɪ/	mở đầu bằng oi, kết thúc là i, kéo dãn 2 âm ra
+/aɪ/	mở đầu bằng a, kết thúc là i, kéo dãn 2 âm ra
+/əʊ/	mở đầu bằng âu, kết thúc là ô, kéo dãn 2 âm ra
+/aʊ/	mở đầu bằng a, kết thúc là o, kéo dãn 2 âm ra
+/ʊə/	mở đầu bằng u, kết thúc là ơ, kéo dãn 2 âm ra
+/ju/	mở đầu bằng i, kết thúc là iu, kéo dãn 2 âm ra
